@@ -1,0 +1,18 @@
+для demo
+шляпа и ботинки были добавлены в двух разных ветках от init, которые потом соединили в release, таким же образом были добавлены и пуговицы, и всё это сошлось в demo
+
+для master
+в отдельной ветке объединены пуговицы и ботинки, и всё это сливают вместе с master, куда уже добавили шляпу.
+
+
+10 коммитов
+init
+heat added
+boots
+README added
+dots
+fix readme
+Merge remote-tracking branch 'origin/buttons' into boots_buttons_
+Merge remote-tracking branch 'origin/boots' into boots_buttons_
+Merge remote-tracking branch 'origin/hat'
+Merge branch 'boots_buttons_'
